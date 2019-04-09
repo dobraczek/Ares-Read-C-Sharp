@@ -1,3 +1,3 @@
 # Ares-Read-C-Sharp
 
-Preview: http://webscript.cz/Ares-Read-C-Sharp.jpg
+<img src=" http://webscript.cz/Ares-Read-C-Sharp.jpg" alt="" />
